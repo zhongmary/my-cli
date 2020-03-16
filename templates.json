@@ -1,0 +1,8 @@
+{
+  "tpl": {
+    "base": {
+      "url": "https://github.com/zhongmary/my-react-template.git",
+      "branch": "master "
+    }
+  }
+}
